@@ -10,11 +10,11 @@ Il se declenche :
 - a chaque push sur `main`
 - manuellement depuis l'onglet [Actions](https://github.com/dimiphoton/github-actions-sandbox/actions)
 
-## Workflow 2 : NASA Hunter (asteroides dangereux)
+## Workflow 2 : NASA Hunter (asteroide le plus proche)
 
-Le workflow [`.github/workflows/nasa_hunter.yaml`](.github/workflows/nasa_hunter.yaml) appelle l'API NASA chaque jour et met a jour la section ci-dessous.
+Le workflow [`.github/workflows/nasa_hunter.yaml`](.github/workflows/nasa_hunter.yaml) appelle l'API NASA chaque jour, identifie l'asteroide au passage le plus proche et affiche sa probabilite d'impact en decibels (10 * log10(p), via JPL Sentry).
 
-Donnees brutes : [`data/asteroides_dangereux.csv`](data/asteroides_dangereux.csv)
+Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.csv)
 
 <!-- NASA_START -->
 
