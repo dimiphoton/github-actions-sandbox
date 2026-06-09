@@ -1,0 +1,31 @@
+# Le nom de votre chaîne de montage (pipeline)
+name: Mon Premier Hello World
+
+# Événement : Quand est-ce que ce script se déclenche ?
+on: 
+  push:
+    branches: [ "main" ] # Se déclenche dès que vous poussez du code sur main
+
+# La liste des tâches à accomplir
+jobs:
+  demonstration:
+    # Le système d'exploitation de la machine virtuelle fournie par GitHub
+    runs-on: ubuntu-latest
+
+    # Les étapes successives que la machine va exécuter
+    steps:
+      # Étape 1 : Récupérer le code du dépôt pour que la machine y ait accès
+      - name: Recuperer le code du repo
+        uses: actions/checkout@v4
+
+      # Étape 2 : Exécuter une commande simple dans le terminal
+      - name: Dire bonjour
+        run: echo "Hello World ! Mon premier pipeline fonctionne 🎉"
+
+      # Étape 3 : Une autre commande pour tester la machine
+      - name: Inspecter la machine virtuelle
+        run: |
+          echo "La machine tourne sous :"
+          uname -a
+          echo "Liste des fichiers dans le projet :"
+          ls -la
