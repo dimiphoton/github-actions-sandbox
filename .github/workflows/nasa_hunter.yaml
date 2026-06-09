@@ -35,9 +35,9 @@ jobs:
         run: pip install -r requirements.txt
 
       # 4. Lancer le script : API NASA -> CSV -> README
+      # NASA_API_KEY (secret) optionnel : si vide, le script utilise DEMO_KEY
       - name: Executer la chasse aux asteroides
         env:
-          # Optionnel : ajouter NASA_API_KEY dans Settings > Secrets du repo
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
         run: python asteroides.py
 

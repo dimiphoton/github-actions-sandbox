@@ -27,8 +27,9 @@ def chasser_asteroides() -> None:
     aujourdhui = datetime.now().strftime("%Y-%m-%d")
     print(f"Lancement de la chasse pour le : {aujourdhui}")
 
-    # Clé API : variable d'environnement (secret GitHub) ou DEMO_KEY gratuite
-    api_key = os.environ.get("NASA_API_KEY", "DEMO_KEY")
+    # Clé API : secret GitHub (si défini) sinon DEMO_KEY gratuite
+    # Note : secrets.NASA_API_KEY vide dans Actions → os.environ renvoie "" et non None
+    api_key = os.environ.get("NASA_API_KEY") or "DEMO_KEY"
     url = (
         "https://api.nasa.gov/neo/rest/v1/feed"
         f"?start_date={aujourdhui}&end_date={aujourdhui}&api_key={api_key}"
