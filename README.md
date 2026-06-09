@@ -18,6 +18,7 @@ Donnees brutes : [`data/asteroides_dangereux.csv`](data/asteroides_dangereux.csv
 
 <!-- NASA_START -->
 
-*Le robot n'a pas encore mis a jour les donnees.*
+### R.A.S le 2026-06-09
+Aucun asteroide dangereux ne frole la Terre aujourd'hui. L'espace est calme.
 
 <!-- NASA_END -->
