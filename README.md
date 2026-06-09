@@ -2,16 +2,22 @@
 
 Projet minimal pour apprendre GitHub Actions.
 
-## Workflow
+## Workflow 1 : Hello World
 
 Le workflow **Mon Premier Hello World** se trouve dans [`.github/workflows/helloworld.yaml`](.github/workflows/helloworld.yaml).
 
-Il se déclenche :
-- à chaque push sur `main`
+Il se declenche :
+- a chaque push sur `main`
 - manuellement depuis l'onglet [Actions](https://github.com/dimiphoton/github-actions-sandbox/actions)
 
-## Vérifier un run
+## Workflow 2 : NASA Hunter (asteroides dangereux)
 
-1. Ouvrir l'onglet **Actions** du dépôt
-2. Cliquer sur **Mon Premier Hello World**
-3. Consulter les logs du job `demonstration`
+Le workflow [`.github/workflows/nasa_hunter.yaml`](.github/workflows/nasa_hunter.yaml) appelle l'API NASA chaque jour et met a jour la section ci-dessous.
+
+Donnees brutes : [`data/asteroides_dangereux.csv`](data/asteroides_dangereux.csv)
+
+<!-- NASA_START -->
+
+*Le robot n'a pas encore mis a jour les donnees.*
+
+<!-- NASA_END -->

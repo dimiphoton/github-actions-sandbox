@@ -1,0 +1,51 @@
+# Workflow "bot" : interroge la NASA chaque jour et met a jour le README + CSV
+name: NASA Hunter
+
+# Nom affiche dans l'onglet Actions pour chaque execution
+run-name: "Chasse asteroides du ${{ github.run_number }}"
+
+# Declencheurs : cron quotidien + bouton manuel dans Actions
+on:
+  schedule:
+    # Tous les jours a 08:00 UTC (10h heure de Paris en hiver)
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+# Permission necessaire pour que le bot puisse pousser le README modifie
+permissions:
+  contents: write
+
+jobs:
+  chasse_asteroides:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Recuperer le code du depot (README, script Python, etc.)
+      - name: Recuperer le code
+        uses: actions/checkout@v4
+
+      # 2. Installer Python sur la machine virtuelle GitHub
+      - name: Configurer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 3. Installer pandas, requests, tabulate
+      - name: Installer les dependances
+        run: pip install -r requirements.txt
+
+      # 4. Lancer le script : API NASA -> CSV -> README
+      - name: Executer la chasse aux asteroides
+        env:
+          # Optionnel : ajouter NASA_API_KEY dans Settings > Secrets du repo
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
+        run: python asteroides.py
+
+      # 5. Committer et pousser le CSV + README modifies par le bot
+      - name: Sauvegarder les donnees dans le depot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/asteroides_dangereux.csv README.md
+          git diff --staged --quiet || git commit -m "Mise a jour Dashboard NASA ($(date +'%Y-%m-%d'))"
+          git push
