@@ -2,9 +2,10 @@
 name: Mon Premier Hello World
 
 # Événement : Quand est-ce que ce script se déclenche ?
-on: 
+on:
   push:
     branches: [ "main" ] # Se déclenche dès que vous poussez du code sur main
+  workflow_dispatch: # Permet de relancer manuellement depuis l'onglet Actions
 
 # La liste des tâches à accomplir
 jobs:
