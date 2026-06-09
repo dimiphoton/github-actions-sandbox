@@ -1,6 +1,6 @@
 # Le nom de votre chaîne de montage (pipeline)
 name: Mon Premier Hello World
-
+run-name: "Exécution par ${{ github.actor }} | Branche: ${{ github.ref_name }}"
 # Événement : Quand est-ce que ce script se déclenche ?
 on:
   push:
