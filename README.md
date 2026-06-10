@@ -18,7 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### R.A.S le 2026-06-09
-Aucun asteroide dangereux ne frole la Terre aujourd'hui. L'espace est calme.
+### Asteroide le plus proche le 2026-06-10
+
+| Nom         |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
+|:------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
+| (2016 TQ56) |     2.14055e+07 |              96.39 |          47403.2 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
