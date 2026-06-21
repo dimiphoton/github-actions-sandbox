@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-06-20
+### Asteroide le plus proche le 2026-06-21
 
-| Nom          |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)   |
-|:-------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:-------------------|
-| (2014 WA201) |     2.02475e+07 |              25.82 |          53525.5 | non                         |              0.0001586 | -38.0 dB           |
+| Nom         |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)   |
+|:------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:-------------------|
+| (2008 JL24) |     1.39183e+07 |               7.15 |             7164 | non                         |              3.246e-07 | -64.89 dB          |
 
 <!-- NASA_END -->
