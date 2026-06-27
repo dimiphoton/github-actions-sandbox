@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-06-26
+### Asteroide le plus proche le 2026-06-27
 
-| Nom         |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
-|:------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| (2014 NV63) |     8.36938e+06 |             134.29 |          51602.4 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| Nom               |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
+|:------------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
+| 152637 (1997 NC1) |     2.56584e+06 |            1585.04 |          31992.1 | OUI                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
