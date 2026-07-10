@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-07-09
+### Asteroide le plus proche le 2026-07-10
 
-| Nom               |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
-|:------------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| 250680 (2005 QC5) |     3.04727e+07 |             704.76 |          54708.3 | OUI                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| Nom         |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
+|:------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
+| (2013 AS27) |     1.26931e+07 |              314.8 |          64487.3 | OUI                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
