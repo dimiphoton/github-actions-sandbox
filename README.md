@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-07-16
+### Asteroide le plus proche le 2026-07-17
 
-| Nom        |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)   |
-|:-----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:-------------------|
-| (2018 XQ2) |     4.41587e+07 |              13.62 |          29819.6 | non                         |              0.0002212 | -36.55 dB          |
+| Nom        |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
+|:-----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
+| (2018 LG4) |     2.64024e+07 |              23.66 |          23729.1 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
