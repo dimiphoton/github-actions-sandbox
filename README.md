@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-07-19
+### Asteroide le plus proche le 2026-07-20
 
 | Nom        |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
 |:-----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| (2016 PC8) |     3.12015e+07 |              68.24 |          20433.8 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| (2019 NG2) |     8.91888e+06 |              90.37 |          49775.2 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
