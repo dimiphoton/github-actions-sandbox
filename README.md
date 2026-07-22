@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-07-21
+### Asteroide le plus proche le 2026-07-22
 
-| Nom         |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
-|:------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| (2020 BO12) |     5.73461e+07 |             206.08 |            90314 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| Nom        |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)   |
+|:-----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:-------------------|
+| (2015 EG7) |     2.01409e+07 |              19.68 |          60637.4 | non                         |              4.936e-06 | -53.07 dB          |
 
 <!-- NASA_END -->
