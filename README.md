@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-08-15
+### Asteroide le plus proche le 2026-08-16
 
-| Nom        |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
-|:-----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| (2017 AV3) |     4.23462e+07 |             688.72 |          89665.9 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| Nom               |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
+|:------------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
+| 417874 (2007 NC5) |      4.7616e+07 |            1412.67 |           144032 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
