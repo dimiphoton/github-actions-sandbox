@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-08-17
+### Asteroide le plus proche le 2026-08-18
 
-| Nom       |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)   |
-|:----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:-------------------|
-| (2014 CE) |     2.17663e+07 |              24.78 |          61350.3 | non                         |               6.77e-06 | -51.69 dB          |
+| Nom         |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)   |
+|:------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:-------------------|
+| (2017 WY27) |     3.22857e+07 |              15.63 |          26802.9 | non                         |              6.237e-07 | -62.05 dB          |
 
 <!-- NASA_END -->
