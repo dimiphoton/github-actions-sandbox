@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-08-26
+### Asteroide le plus proche le 2026-08-27
 
-| Nom              |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
-|:-----------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| 66146 (1998 TU3) |     1.35067e+07 |            7980.68 |          40708.9 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| Nom               |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
+|:------------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
+| 523609 (2005 PJ2) |     7.07738e+06 |             737.97 |          81898.5 | OUI                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
