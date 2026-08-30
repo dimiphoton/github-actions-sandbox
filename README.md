@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-08-29
+### Asteroide le plus proche le 2026-08-30
 
-| Nom        |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
-|:-----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| (2020 DX1) |     1.65112e+07 |              29.79 |          24546.2 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| Nom       |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)   |
+|:----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:-------------------|
+| (2007 EK) |     4.18871e+06 |                8.2 |          32906.7 | non                         |              3.846e-08 | -74.15 dB          |
 
 <!-- NASA_END -->
