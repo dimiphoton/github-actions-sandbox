@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-09-11
+### Asteroide le plus proche le 2026-09-12
 
 | Nom              |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
 |:-----------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| 465824 (2010 FR) |     7.75739e+06 |             272.92 |          41734.2 | OUI                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| 474158 (1999 FA) |     1.98542e+07 |             428.59 |            23479 | OUI                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
