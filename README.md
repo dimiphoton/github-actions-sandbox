@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-09-12
+### Asteroide le plus proche le 2026-09-13
 
-| Nom              |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
-|:-----------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| 474158 (1999 FA) |     1.98542e+07 |             428.59 |            23479 | OUI                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| Nom        |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
+|:-----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
+| (2019 YF4) |     6.17389e+07 |              23.66 |          22859.8 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
