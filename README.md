@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-09-14
+### Asteroide le plus proche le 2026-09-15
 
 | Nom        |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
 |:-----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| (2010 FX9) |     3.59243e+06 |              91.63 |          39846.5 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| (2019 SQ8) |     1.98319e+07 |             132.45 |          76366.3 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
