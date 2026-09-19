@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-09-18
+### Asteroide le plus proche le 2026-09-19
 
-| Nom                |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
-|:-------------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| 260277 (2004 TR12) |     3.03986e+07 |            1318.38 |          55618.3 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| Nom        |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)   |
+|:-----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:-------------------|
+| (2018 MC5) |     1.95185e+07 |              51.06 |            29978 | non                         |              1.283e-06 | -58.92 dB          |
 
 <!-- NASA_END -->
