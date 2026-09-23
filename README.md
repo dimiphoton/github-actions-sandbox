@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-09-22
+### Asteroide le plus proche le 2026-09-23
 
 | Nom         |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
 |:------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| (2017 RP15) |     2.18869e+07 |              29.79 |          32638.8 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| (2012 VB37) |     1.03046e+07 |              47.21 |          22855.2 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
