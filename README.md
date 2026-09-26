@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-09-25
+### Asteroide le plus proche le 2026-09-26
 
-| Nom        |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
-|:-----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| (2016 LY8) |     1.31423e+07 |             147.24 |          26214.3 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| Nom       |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)   |
+|:----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:-------------------|
+| (2008 ST) |     1.48789e+07 |               22.6 |          22190.7 | non                         |              6.487e-05 | -41.88 dB          |
 
 <!-- NASA_END -->
