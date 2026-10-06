@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-10-05
+### Asteroide le plus proche le 2026-10-06
 
-| Nom        |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
-|:-----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| (2007 UW1) |     1.26778e+07 |             171.41 |          16957.9 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| Nom         |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)   |
+|:------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:-------------------|
+| (2012 KT42) |     3.37741e+07 |               9.42 |          42166.4 | non                         |              1.445e-10 | -98.4 dB           |
 
 <!-- NASA_END -->
