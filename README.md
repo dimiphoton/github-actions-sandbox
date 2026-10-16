@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-10-15
+### Asteroide le plus proche le 2026-10-16
 
-| Nom        |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
-|:-----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| (2009 TK8) |     1.21873e+07 |             549.59 |          53680.9 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| Nom          |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)   |
+|:-------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:-------------------|
+| (2000 SZ162) |     7.62202e+06 |              20.61 |          20485.7 | non                         |              7.258e-07 | -61.39 dB          |
 
 <!-- NASA_END -->
