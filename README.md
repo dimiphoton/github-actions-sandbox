@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-10-23
+### Asteroide le plus proche le 2026-10-24
 
 | Nom         |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
 |:------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| (2007 US12) |     2.86512e+07 |             222.86 |            43016 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| (2004 HX53) |     1.37655e+07 |             113.25 |          45400.1 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
