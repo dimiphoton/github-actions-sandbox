@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-10-25
+### Asteroide le plus proche le 2026-10-26
 
-| Nom        |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)   |
-|:-----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:-------------------|
-| (2017 UQ7) |     1.02129e+07 |              52.97 |          57765.9 | non                         |              4.917e-09 | -83.08 dB          |
+| Nom                |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
+|:-------------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
+| 516803 (2010 JG88) |     1.29787e+07 |             741.38 |          73445.7 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
