@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-11-06
+### Asteroide le plus proche le 2026-11-07
 
 | Nom         |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
 |:------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| (2001 KF54) |     7.24378e+06 |             648.69 |          59129.7 | OUI                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| (2007 VV83) |     8.34315e+06 |              68.24 |          19841.4 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
