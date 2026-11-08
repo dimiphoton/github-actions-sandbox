@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-11-07
+### Asteroide le plus proche le 2026-11-08
 
-| Nom         |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
-|:------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| (2007 VV83) |     8.34315e+06 |              68.24 |          19841.4 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| Nom                 |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
+|:--------------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
+| 138175 (2000 EE104) |     1.36727e+07 |             474.29 |          26190.1 | OUI                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
