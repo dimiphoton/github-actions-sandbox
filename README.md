@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-11-13
+### Asteroide le plus proche le 2026-11-14
 
-| Nom                |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
-|:-------------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| 363790 (2005 JE46) |     7.69663e+06 |            1599.71 |          53036.8 | OUI                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| Nom                 |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
+|:--------------------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
+| 218017 (2001 XV266) |      1.5975e+07 |             645.71 |          26162.8 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
