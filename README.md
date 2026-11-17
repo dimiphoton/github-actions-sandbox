@@ -18,10 +18,10 @@ Donnees brutes : [`data/asteroide_plus_proche.csv`](data/asteroide_plus_proche.c
 
 <!-- NASA_START -->
 
-### Asteroide le plus proche le 2026-11-16
+### Asteroide le plus proche le 2026-11-17
 
 | Nom       |   Distance (km) |   Diametre max (m) |   Vitesse (km/h) | Potentiellement dangereux   |   Probabilite d'impact | Probabilite (dB)                          |
 |:----------|----------------:|-------------------:|-----------------:|:----------------------------|-----------------------:|:------------------------------------------|
-| (2005 WD) |     1.94923e+07 |             244.37 |          65428.7 | OUI                         |                      0 | N/A (probabilite nulle ou non surveillee) |
+| (2019 XL) |     1.53098e+07 |              28.45 |          37366.7 | non                         |                      0 | N/A (probabilite nulle ou non surveillee) |
 
 <!-- NASA_END -->
